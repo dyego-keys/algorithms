@@ -1,7 +1,5 @@
-package shortpathtest;
+package online.test.shortpathtest;
 
-import online.test.shortpathtest.GraphNode;
-import online.test.shortpathtest.ShortestPath;
 import org.junit.Before;
 import org.junit.Test;
 
